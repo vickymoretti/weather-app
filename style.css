@@ -1,0 +1,127 @@
+body {
+	background: linear-gradient(
+		96.2deg,
+		rgb(255, 230, 112) 10.4%,
+		rgb(255, 100, 100) 43.8%,
+		rgb(0, 93, 219) 105.8%
+	);
+}
+
+.container {
+	max-width: 800px;
+}
+
+.searchButton {
+	display: block;
+	border-radius: 4px;
+	color: black;
+	background: #fff;
+	border: none;
+	padding: 6px 5px;
+}
+
+.searchButton:hover {
+	background: #e56370;
+	color: #fff;
+}
+
+.currentLocationButton {
+	display: block;
+	border-radius: 4px;
+	color: black;
+	background: #fff;
+	border: none;
+	padding: 6px 5px;
+}
+
+.currentLocationButton:hover {
+	background: rgb(12, 157, 12);
+	color: #fff;
+}
+
+.search-city {
+	border-radius: 4px;
+	background-color: #fff;
+	color: black;
+	border: none;
+}
+
+.card {
+	background: transparent;
+	border: none;
+}
+.card.card-body {
+	background: transparent;
+	border-color: white;
+	border-radius: 10px;
+	border-width: 5px;
+	border-style: solid;
+}
+
+.card-title {
+	text-align: center;
+}
+
+.input-form {
+	display: flex;
+	padding: 40px 0;
+	column-gap: 10px;
+}
+
+.large-card {
+	text-align: center;
+}
+
+.big-emoji {
+	font-size: 100px;
+	color: white;
+}
+
+.emoji {
+	font-size: 30px;
+	color: white;
+}
+
+.card-body2 {
+	column-rule-color: transparent;
+	border-style: solid;
+	border-color: #fff;
+	border-radius: 4px;
+	padding: 8px 5px;
+}
+
+.col {
+	padding: 15px 20px;
+	text-align: center;
+}
+
+.temperature {
+	font-size: 60px;
+}
+
+.units {
+	font-size: 18px;
+	position: relative;
+	padding-left: 120px;
+}
+
+a {
+	text-decoration: none;
+	color: #212529;
+}
+
+a:hover {
+	color: white;
+}
+
+.city {
+	font-size: 40px;
+}
+
+.day {
+	margin-top: 21px;
+}
+
+ul {
+	list-style-type: none;
+}
