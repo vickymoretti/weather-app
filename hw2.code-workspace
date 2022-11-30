@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Shecodes/SheCodesPlus/hw2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather-app"
+	}
+}
